@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    system
+                    โบว์มาแล้วนะจ๊ะ
                 </div>
 
                 <div class="links">
